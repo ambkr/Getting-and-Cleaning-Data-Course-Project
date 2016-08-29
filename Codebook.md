@@ -1,7 +1,7 @@
 This is the Codebook.md file for the Getting and Cleaning Data Course Project.
 
 It identifies the data fields in
-tidy_indie_data.csv.
+tidy_indie_data.txtcsv.
 
 - subject number: the ID of the test subjects
 - activity: the type of activity performed by the subjects
