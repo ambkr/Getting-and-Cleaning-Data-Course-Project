@@ -9,6 +9,6 @@ The "run_analysis.R" script performs a number of functions, including:
 - combining test data and train data
 - find the means and sd for all subjects and activities
 - adds descriptive variable names to columns and descriptive categorical variable names for "assigned cohort" and "activity"
-- creates a second, independent tidy data set (tidy_indie_data) and CSV file (tidy_indie_data.csv) with the average of each variable for each activity and each subject
+- creates a second, independent tidy data set (tidy_indie_data) and TXT file (tidy_indie_data.txt) with the average of each variable for each activity and each subject
 
 Thank you.
